@@ -1500,6 +1500,7 @@
 (^|\.)mpyit\.com$
 (^|\.)qupu123\.com$
 (^|\.)pdfwifi\.com$
+(^|\.)openai\.com$
 
 # CN域名直连
 (^|\.)cn$
